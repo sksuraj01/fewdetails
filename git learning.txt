@@ -1,0 +1,22 @@
+git status
+
+git add index.html;
+
+git add -A
+
+git commit -m "comments"
+
+git checkout branchname
+
+git branch branchname
+
+
+
+git branch -M 'main' 
+
+
+git remote add origin https://github.com/sksuraj01/codewithsuraj.git
+
+git remote -v
+
+git push -u origin main
