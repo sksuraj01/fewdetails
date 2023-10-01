@@ -20,3 +20,20 @@ git remote add origin https://github.com/sksuraj01/codewithsuraj.git
 git remote -v
 
 git push -u origin main
+
+
+useful commands
+
+git init
+
+git add *
+
+git commit -m "commit"
+
+git branch -m "main"
+
+git remote add origin https://github.com/sksuraj01/jenkins3.git
+
+git remote set-url origin https://github.com/sksuraj01/jenkins3.git
+
+git push -u origin main
